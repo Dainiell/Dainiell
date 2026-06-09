@@ -6,22 +6,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,sqlite,jsn,html,css,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,sqlite,html,css,git,github,figma" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/TablePlus-22252A?style=for-the-badge&logo=databricks&logoColor=52B0DF" alt="TablePlus" />
-</p>
-
-#### **What I Work With:**
+#### **Core Expertise:**
 * **Programming Languages:** Swift, Python
 * **UI Development:** SwiftUI, UIKit
 * **App Architecture & Core Concepts:** MVVM, MVC, State Management, Memory Management (ARC), App Lifecycle
 * **Networking:** REST APIs, JSON Parsing
-* **Database & Tools:** SwiftData, Supabase, MySQL, TablePlus
+* **Database & Tools:** SwiftData, Supabase, MySQL, TablePlus,SQLite
 
 ---
 
