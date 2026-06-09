@@ -19,6 +19,12 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/TablePlus-22252A?style=for-the-badge&logo=databricks&logoColor=52B0DF" alt="TablePlus" />
+</p>
+
 #### **What I Work With:**
 * **Programming Languages:** Swift, Python
 * **UI Development:** SwiftUI, UIKit
