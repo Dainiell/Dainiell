@@ -30,6 +30,6 @@ My engineering mindset is heavily backed by a practical background in Data Analy
 
 ### 🚀 What I'm Up To
 * 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
-* 🌱 Continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
+* 🌱 Continually sharpening my engineering foundation through architectural patterns like MVVM/MVC.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
 
