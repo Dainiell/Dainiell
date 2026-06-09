@@ -1,6 +1,6 @@
 # Hi there, I'm Ralph 👋
 
-**An Information Technology Student & iOS / Full-Stack Developer from the Philippines 🇵🇭**
+**An Information Technology Student & iOS App Developer from the Philippines 🇵🇭**
 
 <p align="left">
   <a href="https://ralph-dainiell.vercel.app/">
@@ -15,12 +15,12 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,html,css,js,git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,html,css,git,github,figma,vscode" />
   </a>
 </p>
 
 #### **What I Work With:**
-* **Programming Languages:** Swift, Python, JavaScript
+* **Programming Languages:** Swift, Python
 * **UI Development:** SwiftUI, UIKit
 * **App Architecture & Core Concepts:** MVVM, MVC, State Management, Memory Management (ARC), App Lifecycle
 * **Networking:** REST APIs, JSON Parsing
@@ -29,10 +29,8 @@
 ---
 
 ### 🚀 Current Projects
-
-* 📱 **[Swift Basics](https://github.com/Dainiell/Swift-Basics)** – A dedicated public repository tracking my core foundations, deep dives, and fundamental implementations in Swift development.
 * 🎓 **[UniConnect](#)** – Integrated desktop student portal paired with a web companion system to securely manage and check grades, official announcements, and schedules.
-* 🛡️ **[Integrative Admin System](https://github.com/Dainiell/IntegrativeAdminSystem)** – An administrative portal built to handle system management workflows securely and efficiently.
+
 
 ### 📜 Featured Work & Framework Exploration
 * 🗄️ **Database Integration** – Building localized storage architectures using **SwiftData** alongside scalable cloud storage infrastructures via **Supabase**.
@@ -42,6 +40,5 @@
 
 ### 💫 About Me
 * 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
-* 🌱 Senior IT Student continually sharpening my engineering foundation through architectural patterns (MVVM/MVC) and clean code.
+* 🌱 Senior IT Student continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
-* 📬 Reach out directly for collaboration: **gonzagaralphdainiell@gmail.com**
