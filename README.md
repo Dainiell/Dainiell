@@ -40,5 +40,5 @@
 
 ### 💫 About Me
 * 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
-* 🌱 Senior IT Student continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
+* 🌱 Continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
