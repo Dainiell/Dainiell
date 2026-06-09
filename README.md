@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,sqlite,html,css,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,realm,sqlite,html,css,git,github,figma" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ My engineering mindset is heavily backed by a practical background in Data Analy
 ---
 
 ### 🚀 What I'm Up To
-* 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
+* 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and DevOps.
 * 🌱 Continually sharpening my engineering foundation through architectural patterns like MVVM/MVC.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
 
