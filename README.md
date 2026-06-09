@@ -11,7 +11,6 @@
 </p>
 
 #### **Core Expertise:**
-* **Programming Languages:** Swift, Python
 * **UI Development:** SwiftUI, UIKit
 * **App Architecture & Core Concepts:** MVVM, MVC, State Management, Memory Management (ARC), App Lifecycle
 * **Networking:** REST APIs, JSON Parsing
