@@ -25,17 +25,18 @@
 
 ---
 
-### 🚀 Current Projects
+### 🚀 Projects
 * 🎓 **[UniConnect](#)** – Integrated desktop student portal paired with a web companion system to securely manage and check grades, official announcements, and schedules.
 
 
-### 📜 Featured Work & Framework Exploration
-* 🗄️ **Database Integration** – Building localized storage architectures using **SwiftData** alongside scalable cloud storage infrastructures via **Supabase**.
-* 🎨 **UI/UX Design & Prototyping** – Translating complex workflows into minimal, highly functional interactive designs using **Figma** and native Apple Design guidelines.
+### 📜 About Me
+I am a 20-year-old IT student specializing in Mobile Development, entirely focused on carving out my path as an iOS Engineer. For me, tech isn't just about writing code; it's about translating natural curiosity into clean, user-centered mobile applications. I actively document this growth and share my build journey with the developer community on YouTube. 
+
+My engineering mindset is heavily backed by a practical background in Data Analytics. Mastering SQL, complex data organization, and pattern recognition has trained me to approach application architecture with high attention to detail and a structured, problem-solving lens. I'm constantly exploring new layers of Swift and native iOS frameworks, aiming to build digital products that are both highly practical and beautifully designed
 
 ---
 
-### 💫 About Me
+### 🚀 What I'm Up To
 * 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
 * 🌱 Continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
