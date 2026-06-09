@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,html,css,git,github,figma,xcode" />
+    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,html,css,php,git,github,figma" />
   </a>
 </p>
 
