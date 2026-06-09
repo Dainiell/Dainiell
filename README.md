@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Projects
-* 🎓 **[UniConnect](#)** – Integrated desktop student portal paired with a web companion system to securely manage and check grades, official announcements, and schedules.
+* COMING SOON
 
 
 ### 📜 About Me
