@@ -23,8 +23,7 @@
 
 
 ### 📜 About Me
-I am a 20-year-old IT student specializing in Mobile Development, entirely focused on carving out my path as an iOS Engineer. For me, tech isn't just about writing code; it's about translating natural curiosity into clean, user-centered mobile applications. I actively document this growth and share my build journey with the developer community on YouTube. 
-My engineering mindset is heavily backed by a practical background in Data Analytics. Mastering SQL, complex data organization, and pattern recognition has trained me to approach application architecture with high attention to detail and a structured, problem-solving lens. I'm constantly exploring new layers of Swift and native iOS frameworks, aiming to build digital products that are both highly practical and beautifully designed
+I am a 20-year-old IT student specializing in Mobile Development, entirely focused on carving out my path as an iOS Engineer. For me, tech isn't just about writing code; it's about translating natural curiosity into clean, user-centered mobile applications. I actively document this growth and share my build journey with the developer community on YouTube. I am constantly exploring new layers of Swift and native iOS frameworks, aiming to approach application architecture with high attention to detail and a structured, problem-solving lens. My goal is to consistently build native digital products that are both highly practical and beautifully designed.
 
 ---
 
