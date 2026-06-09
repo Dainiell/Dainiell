@@ -10,19 +10,11 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
-  <img src="https://img.shields.io/badge/Realm-394B58?style=for-the-badge&logo=realm&logoColor=white" alt="Realm" />
-  <img src="https://img.shields.io/badge/TablePlus-22252A?style=for-the-badge&logo=databricks&logoColor=52B0DF" alt="TablePlus" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON" />
-</p>
-
 #### **Core Expertise**
 * **UI Development:** SwiftUI, UIKit
 * **App Architecture & Core Concepts:** MVVM, MVC, State Management, Memory Management (ARC), App Lifecycle
 * **Networking:** REST APIs, JSON Parsing
-* **Database & Tools:** SwiftData, Realm, Supabase, MySQL, TablePlus, SQLite
+* **Database & Tools:** SwiftData, Realm, Supabase, MySQL, TablePlus, SQLite,Realm
 
 ---
 
