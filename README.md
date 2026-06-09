@@ -20,9 +20,9 @@
 </p>
 
 <p align="left">
-  <img src="https://pub-c5e31b5cdafb419a86629d187527a4d3.r2.dev/xcode.png" width="48" height="48" alt="Xcode" style="margin-right: 10px;" />
-  <img src="https://pub-c5e31b5cdafb419a86629d187527a4d3.r2.dev/swiftdata.png" width="48" height="48" alt="SwiftData" style="margin-right: 10px;" />
-  <img src="https://pub-c5e31b5cdafb419a86629d187527a4d3.r2.dev/tableplus.png" width="48" height="48" alt="TablePlus" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/SwiftData-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftData" />
+  <img src="https://img.shields.io/badge/TablePlus-22252A?style=for-the-badge&logo=databricks&logoColor=52B0DF" alt="TablePlus" />
 </p>
 
 #### **What I Work With:**
