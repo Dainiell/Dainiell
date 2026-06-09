@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,sqlite,html,css,php,git,github,figma" />
+    <img src="https://skillicons.dev/icons?i=swift,python,mysql,supabase,firebase,sqlite,json,html,css,php,git,github,figma" />
   </a>
 </p>
 
@@ -40,11 +40,4 @@ My engineering mindset is heavily backed by a practical background in Data Analy
 * 🔭 I’m currently focused on expanding my skills in iOS Mobile App Development and Data Analytics.
 * 🌱 Continually sharpening my engineering foundation through architectural patterns like the MVVM/MVC and clean code.
 * 🌐 Check out my full interactive portfolio here: **[ralph-dainiell.vercel.app](https://ralph-dainiell.vercel.app/)**
-  <p align="left">
-  <a href="https://ralph-dainiell.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:gonzagaralphdainiell@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
