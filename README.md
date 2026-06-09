@@ -1,6 +1,6 @@
 # Hi there, I'm Ralph 👋
 
-**An Information Technology Student & iOS App Developer from the Philippines 🇵🇭**
+**An Information Technology & iOS App Developer from the Philippines 🇵🇭**
 
 ### ⚙️ Tech Skills
 
