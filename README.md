@@ -2,7 +2,7 @@
 
 **A iOS Engineer from the Philippines 🇵🇭**
 
-### ⚙️ Tech Skills
+### 💻 Language and Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
