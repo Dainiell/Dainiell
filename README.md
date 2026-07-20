@@ -15,7 +15,7 @@
 
 ### 🚀 Projects
 * COMING SOON
-
+---
 
 ### 📜 About Me
 I am a 20-year-old IT student specializing in Mobile Development, entirely focused on carving out my path as an iOS Engineer. For me, tech isn't just about writing code it's about translating natural curiosity into clean, user-centered mobile applications. I am constantly exploring new layers of Swift and native iOS frameworks, aiming to approach application architecture with high attention to detail and a structured, problem-solving lens. My goal is to consistently build native digital products that are both highly practical and beautifully designed.
