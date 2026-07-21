@@ -12,11 +12,6 @@
 
 
 ---
-
-### 🔨 Current Projects
-* COMING SOON
-
----
 ### 🚀 Projects
 * COMING SOON
 
