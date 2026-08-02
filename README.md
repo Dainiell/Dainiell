@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Projects
-* COMING SOON
+* WORKING ON IT
 
 ---
 ### 📜 About Me
