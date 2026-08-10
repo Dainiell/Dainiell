@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 Projects
-* WORKING ON IT.
+* WORKING ON IT
 
 ---
 ### 📜 About Me
