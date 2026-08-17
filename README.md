@@ -24,5 +24,5 @@ I am a 20-year-old IT student specializing in Mobile Development, entirely focus
 ---
 ### 🚀 What I'm Up To
 * 🔭 I’m currently focused on expanding my skills in iOS Application Development.
-* 🌱 Continually sharpening my engineering foundation.
+* 🌱 Continually sharpening my engineering foundation and DevOps fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
