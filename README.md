@@ -6,7 +6,7 @@
 
 <br>
 
-![loading bars](https://raw.githubusercontent.com/Dainiell/Dainiell/main/assets/loading-bars.svg)
+<img src="https://raw.githubusercontent.com/Dainiell/Dainiell/main/assets/loading-bars.svg" alt="loading bars" />
 
 <br>
 
