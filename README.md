@@ -18,7 +18,7 @@
 ### 🚀 Projects
 * WORKING ON IT
 
-<hr style="height:1px; border:none; background-color:#333;">
+
 ### 📜 About Me
 I am a 20-year-old IT student in the Software Engineering industry specializing in Mobile Development with a primary focus on iOS Engineering. I also work across cross-platform development and am building foundational skills in DevOps. I approach application architecture with attention to detail and a structured problem-solving mindset. I build native and cross-platform digital products that are functional and well-designed.
 
