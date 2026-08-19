@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1000&pause=1000&color=27C93F&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Ralph;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1000&pause=3000;1000;1000;1000&color=27C93F&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Ralph;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
 
 
 </div>
@@ -31,5 +31,3 @@ I am a 20-year-old IT student in the Software Engineering industry specializing 
 * 🔭 I'm currently focused on expanding my skills in Mobile Application Development.
 * 🌱 Continually sharpening my engineering foundation and DevOps fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
-
-
