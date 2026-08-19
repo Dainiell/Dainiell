@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=27C93F&center=true&vCenter=true&width=440&lines=Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3000&pause=1200&color=27C93F&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Ralph+%F0%9F%91%8B;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
 
 <br>
 
