@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 ### 💻 Language and Tools
 <p align="left">
@@ -18,12 +17,12 @@
 
 ---
 
-### 🚀 Projects
+### 🎨 Projects
 * WORKING ON IT
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
-### 📜 About Me
+### 🤖 About Me
 I am a 20-year-old IT student in the Software Engineering industry specializing in Mobile Development with a primary focus on iOS Engineering. I also work across cross-platform development and am building foundational skills in DevOps. I approach application architecture with attention to detail and a structured problem-solving mindset. I build native and cross-platform digital products that are functional and well-designed.
 
 ---
