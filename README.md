@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ralph 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=iOS+Engineer+from+the+Philippines+%F0%9F%87%B5%F0%9F%87%AD;Building+Native+%26+Cross-Platform+Apps;Growing+into+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=27C93F&center=true&vCenter=true&width=500&lines=Software Engineer+%F0%9F%87%B5%F0%9F%87%AD;Building+Native+%26+Cross-Platform+Mobile+Apps;DevOps+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -38,8 +38,6 @@ I am a 20-year-old IT student in the Software Engineering industry specializing 
 
 ---
 
-<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=27C93F&style=flat)
 
 </div>
