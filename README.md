@@ -4,11 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=1000&pause=1000&color=27C93F&center=true&vCenter=true&width=440&lines=%24+whoami;Hi+there%2C+I'm+Ralph;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
 
-<br>
-
-<a href="https://github.com/Dainiell"><img src="https://img.shields.io/badge/GitHub-Dainiell-27C93F?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" /></a>
-
-<br><br>
 
 </div>
 
