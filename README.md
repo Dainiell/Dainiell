@@ -17,7 +17,7 @@
 
 ---
 
-### 🎨 Projects
+### 🏆 Projects
 * WORKING ON IT
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
@@ -27,7 +27,7 @@ I am a 20-year-old IT student in the Software Engineering industry specializing 
 
 ---
 
-### 🚀 What I'm Up To
+### 🎯 What I'm Up To
 * 🔭 I'm currently focused on expanding my skills in Mobile Application Development.
 * 🌱 Continually sharpening my engineering foundation and DevOps fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
