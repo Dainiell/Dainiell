@@ -9,7 +9,7 @@
 ### 💻 Language and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,apple,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,notion,flutter,jenkins,docker,kubernetes,grafana,linux,terraform,ansible,aws,githubactions,gitlab,postman,prometheus,nginx,powershell,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=pr,apple,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,notion,flutter,jenkins,docker,kubernetes,grafana,linux,terraform,ansible,aws,azure,gcp,githubactions,gitlab,postman,prometheus,nginx,powershell,ubuntu" />
   </a>
 </p>
 
