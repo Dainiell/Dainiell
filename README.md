@@ -21,7 +21,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 ### 🤖 About Me
-Aspiring iOS Engineer with a primary focus on native iOS development, complemented by hands-on experience in cross-platform mobile app development. Skilled in building functional, well-architected applications using Swift, with the versatility to deliver across multiple platforms. Currently building foundational skills as a DevOps Developer to support efficient, streamlined software delivery.
+Aspiring iOS Engineer specializing in native iOS development with Swift, complemented by cross-platform mobile app experience using Flutter. Currently building foundational DevOps skills to support efficient software delivery.
 
 ---
 
