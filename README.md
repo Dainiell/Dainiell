@@ -9,7 +9,7 @@
 ### 💻 Language and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,apple,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,notion,flutter,jenkins" />
+    <img src="https://skillicons.dev/icons?i=pr,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,notion,flutter,jenkins" />
   </a>
 </p>
 
