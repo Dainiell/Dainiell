@@ -26,6 +26,6 @@ Aspiring iOS Engineer specializing in native iOS development with Swift, complem
 ---
 
 ### 🎯 What I'm Up To
-* 🔭 I'm currently focused on expanding my skills in Mobile Application Development.
-* 🌱 Continually sharpening my engineering foundation and DevOps fundamentals.
-* 🌐 Explore my professional timeline and interactive projects.
+📱 Currently focused on native iOS development, alongside cross-platform mobile development.
+🌱 Continually sharpening my engineering foundation and building DevOps fundamentals.
+🌐 Explore my professional timeline and interactive projects.
