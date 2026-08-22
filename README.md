@@ -1,4 +1,4 @@
-<img width="1363" height="1303" alt="image" src="https://github.com/user-attachments/assets/2a075c77-98d2-49e3-b943-d58aa711bfb3" /><div align="center"> 
+<div align="center"> 
 
 <br> 
 
@@ -8,15 +8,15 @@
 ### 💻 Language and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,dart,bash,flutter,jenkins" />
+    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,dart,flutter,jenkins" />
   </a>
 </p>
 
 ---
 
-### 🏆 Projects
+### 🏆 Current Projects
 
-* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h4> - Cross-platform sales tracker for small enterprises manage multiple businesses, no subscription required.
+* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h4> Cross-platform sales tracker for small enterprises — manage multiple businesses, no subscription required.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
