@@ -16,7 +16,7 @@
 
 ### 🏆 Current Projects
 
-* 📱 [Capoink](https://github.com/Dainiell/Capoink)</h4> - Cross-platform sales tracker for small enterprises manage multiple businesses, no subscription required.
+* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h4> - Cross-platform sales tracker for small enterprises manage multiple businesses, no subscription required.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
