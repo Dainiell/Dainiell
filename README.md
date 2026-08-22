@@ -1,9 +1,8 @@
 <div align="center"> 
- 
-<br> 
- 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=58&duration=1000&pause=3000&color=27C93F&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Ralph;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
 
+<br> 
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=58&duration=1000&pause=3000&color=27C93F&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+Ralph;Software+Engineer;Mobile+Developer;DevOps+Developer" alt="Typing SVG" />
 </div>
 
 ### 💻 Language and Tools
@@ -15,8 +14,9 @@
 
 ---
 
-### 🏆 Projects
-* WORKING ON IT
+### 🏆 Current Projects
+
+* 📱 [Capoink](https://github.com/Dainiell/Capoink)</h4> - Cross-platform sales tracker for small enterprises manage multiple businesses, no subscription required.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
