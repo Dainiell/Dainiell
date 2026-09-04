@@ -21,7 +21,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 ### 🤖 About Me
-Aspiring iOS Engineer skilled in Swift, learning Flutter for cross-platform, with foundational DevOps knowledge.
+Aspiring iOS Engineer skilled in Swift and native iOS development, currently learning Flutter for cross-platform, with foundational DevOps knowledge to support efficient software delivery.
 
 ---
 
