@@ -26,6 +26,6 @@ Aspiring iOS Engineer skilled in Swift and native iOS development, currently lea
 ---
 
 ### 🎯 What I'm Up To
-* 📱 Currently focused on native iOS development, while still learning cross-platform development with Flutter
+* 📱 Currently focused on native iOS development while still learning cross-platform development with Flutter
 * 🌱 Continually sharpening my engineering foundation and building DevOps fundamentals
 * 🌐 Explore my professional timeline and interactive projects
