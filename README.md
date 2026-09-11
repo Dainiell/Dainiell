@@ -16,7 +16,7 @@
 
 ### 🏆 Projects
 
-* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h1> - A cross-platform mobile app that helps business owners manage sales, stock and teams across multiple businesses.
+* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h1> - A cross-platform mobile app that helps business owners manage sales, stock and teams across multiple businesses
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
