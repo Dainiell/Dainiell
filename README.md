@@ -16,8 +16,8 @@
 
 ### 🏆 Projects
 
-* 📈 [Capoink](https://github.com/Dainiell/Capoink)</h1> - **Run your business smarter manage sales, stock, and teams across every location.**
-* 🎯 [Coinpers](https://github.com/Dainiell/Coinpers)</h1> - **Know where your money goes track expenses, categorize spending, stay on budget.**
+* 📈 **[Capoink](https://github.com/Dainiell/Capoink)</h1>** - **Run your business smarter manage sales, stock, and teams across every location.**
+* 🎯 **[Coinpers](https://github.com/Dainiell/Coinpers)</h1>** - **Know where your money goes track expenses, categorize spending, stay on budget.**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
