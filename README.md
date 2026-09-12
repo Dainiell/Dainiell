@@ -8,7 +8,7 @@
 ### 💻 Language and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,dart,flutter,androidstudio,gradle,postman,githubactions" />
+    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,githubactions,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,dart,flutter,androidstudio,gradle,postman" />
   </a>
 </p>
 
