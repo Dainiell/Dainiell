@@ -17,7 +17,7 @@
 ### 🏆 Projects
 
 * 📈 [Capoink](https://github.com/Dainiell/Capoink)</h1> - A cross-platform mobile app that helps business owners manage sales, stock and teams across multiple businesses
-* 📊 [Coinpers](https://github.com/Dainiell/Coinpers)</h1> - A cross-platform mobile app for tracking daily expenses, categorizing spending, and staying on top of your budget.
+* 🎯 [Coinpers](https://github.com/Dainiell/Coinpers)</h1> - A cross-platform mobile app for tracking daily expenses, categorizing spending, and staying on top of your budget.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
