@@ -29,5 +29,5 @@ Aspiring iOS Engineer skilled in Swift and native iOS development, with foundati
 
 ### 🎯 What I'm Up To
 * 📱 Currently focused on native iOS development.
-* 🌱 Continually sharpening my engineering foundation and building AI Automation fundamentals.
+* 🌱 Continually sharpening my AI Automation fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
