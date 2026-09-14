@@ -23,7 +23,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 ### 🤖 About Me
-Aspiring iOS Engineer skilled in Swift and native iOS development, with foundational knowledge in AI Automation to build smarter, more efficient applications.
+Aspiring iOS Engineer skilled in Swift, exploring AI Automation and iOS Security to build smarter, safer apps.
 
 ---
 
