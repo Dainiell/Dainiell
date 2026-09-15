@@ -29,5 +29,6 @@ Aspiring iOS Engineer skilled in Swift and SwiftUI, specializing in iOS Security
 
 ### 🎯 What I'm Up To
 * 📱 Currently focused on native iOS development.
+* 🛡️ Building foundational skills in iOS app security.
 * 🌱 Continually sharpening my AI Automation fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
