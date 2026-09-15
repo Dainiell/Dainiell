@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="./sticker.png" width="420"/>
+<img src="./sticker.png" width="450"/>
 
 <br>
 
