@@ -1,11 +1,6 @@
-<div align="center"> 
-
-<img src="./sticker.png" width="400"/>
-
-<br>
-
+<div align="center">
+<img src="./sticker.png" width="500"/>
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=1000&pause=3000&color=27C93F&center=true&vCenter=true&width=700&lines=IOS+Engineer;Mobile+Security+Analyst;AI+Automation" alt="Typing SVG" />
-
 </div>
 
 ### 💻 Language and Tools
