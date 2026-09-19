@@ -20,12 +20,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 ### 🤖 About Me
-Aspiring iOS Engineer skilled in Swift and SwiftUI, specializing in iOS Security and AI Automation, with working knowledge of CI/CD pipelines to build apps that are smarter, safer, and built to last.
+iOS Developer specializing in Cybersecurity, building and securing applications that are safe, reliable, and built to last.
 
 ---
 
 ### 🎯 What I'm Up To
-* 📱 Currently focused on native iOS development.
-* 🛡️ Building foundational skills in iOS app security.
-* 🌱 Continually sharpening my AI Automation fundamentals.
+* 📱 Focused on native iOS development.
+* 🌱 Continually sharpening my Cybersecurity fundamentals.
 * 🌐 Explore my professional timeline and interactive projects.
