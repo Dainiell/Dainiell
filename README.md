@@ -6,7 +6,7 @@
 ### 💻 Language and Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,github,mysql,postgresql,supabase,firebase,sqlite,visualstudio,bash,githubactions,powershell,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=pr,notion,figma,swift,git,github,mysql,supabase,firebase,sqlite,bash,githubactions,powershell,bash,linux" />
   </a>
 </p>
 
