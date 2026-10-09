@@ -27,4 +27,4 @@ iOS Developer specializing in Cybersecurity, building and securing applications 
 ### 🎯 What I'm Up To
 * 📱 Focused on native iOS development.
 * 🌱 Continually sharpening my Cybersecurity fundamentals.
-* 🌐 Explore my website.
+* 🌐 Explore my website
