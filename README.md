@@ -19,7 +19,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=2"/>
 
 ### 🤖 About Me
-iOS Developer specializing in Cybersecurity, building and securing applications that are safe, reliable, and built to last.
+I build modern native iOS apps, and these days
+I’m focus on cybersecurity and asset protection.
 
 ---
 
