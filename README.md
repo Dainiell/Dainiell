@@ -20,7 +20,7 @@
 
 ### 🤖 About Me
 I build modern native iOS apps, and these days
-I’m focus on cybersecurity and asset protection.
+I’m focus on cybersecurity and asset protection
 
 ---
 
