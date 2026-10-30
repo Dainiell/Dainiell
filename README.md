@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./split-flap-tagline.svg" alt="iOS Developer / Cybersecurity" width="440" />
+<img src="./split-flap-tagline.svg" alt="Cloud Security / Cybersecurity" width="440" />
 </div>
 
 ### 💻 Language and Tools
