@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=figma,swift,git,py,github,mysql,supabase,firebase,sqlite,bash,githubactions,powershell,bash,linux,docker" />
   </a>
 </p>
-<a class="r-btn" href="https://ralph-dainiell-omega.vercel.app">\R</a>
+
 
 <div align="center">
   <a href="https://ralph-dainie-omega.vercel.app">
