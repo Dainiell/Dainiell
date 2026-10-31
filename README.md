@@ -10,4 +10,4 @@
   </a>
 </p>
 
-LEARN MORE ralph-dainie-omega.vercel.app
+LEARN MORE ralph-dainiell-omega.vercel.app
