@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="195 167 550 520" width="550" height="520" role="img" aria-label="R - Visit portfolio">
+  <title>Visit Ralph's Portfolio</title>
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+  </defs>
+
+  <!-- Button base / depth edge (stays still) -->
+  <rect x="207" y="195" width="526" height="487" rx="58" ry="58" fill="#4a4a4a"/>
+  <rect x="207" y="190" width="526" height="487" rx="58" ry="58" fill="#2b2b2b"/>
+
+  <!-- Button face (presses down, then pops back up) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      dur="3.2s" repeatCount="indefinite" calcMode="linear"
+      keyTimes="0;0.50;0.58;0.70;0.80;1"
+      values="0 0; 0 0; 0 13; 0 13; 0 0; 0 0"/>
+
+    <!-- Green glow while pressed -->
+    <rect x="207" y="179" width="526" height="487" rx="58" ry="58"
+          fill="none" stroke="#22c93f" stroke-width="10" filter="url(#glow)" opacity="0">
+      <animate attributeName="opacity" dur="3.2s" repeatCount="indefinite"
+        keyTimes="0;0.50;0.58;0.70;0.80;1"
+        values="0;0;0.9;0.9;0;0"/>
+    </rect>
+
+    <!-- Face -->
+    <rect x="207" y="179" width="526" height="487" rx="58" ry="58"
+          fill="#000000" stroke="#d4d4d4" stroke-width="4">
+      <animate attributeName="stroke" dur="3.2s" repeatCount="indefinite"
+        keyTimes="0;0.50;0.58;0.70;0.80;1"
+        values="#d4d4d4;#d4d4d4;#22c93f;#22c93f;#d4d4d4;#d4d4d4"/>
+    </rect>
+
+    <!-- Pixel \R -->
+    <g fill="#22c93f">
+      <!-- Backslash staircase -->
+      <rect x="447"   y="415" width="25" height="23" rx="4"/>
+      <rect x="455.6" y="438" width="25" height="23" rx="4"/>
+      <rect x="464"   y="461" width="25" height="23" rx="4"/>
+      <rect x="473"   y="484" width="25" height="23" rx="4"/>
+      <rect x="481"   y="507" width="25" height="23" rx="4"/>
+      <rect x="490"   y="530" width="25" height="23" rx="4"/>
+      <rect x="499"   y="553" width="25" height="23" rx="4"/>
+      <rect x="507"   y="576" width="25" height="23" rx="4"/>
+      <rect x="516"   y="599" width="25" height="22" rx="4"/>
+
+      <!-- Letter R -->
+      <rect x="562" y="437" width="24" height="160" rx="4"/>
+      <rect x="562" y="437" width="81" height="23"  rx="4"/>
+      <rect x="625" y="460" width="30" height="46"  rx="4"/>
+      <rect x="562" y="506" width="70" height="23"  rx="4"/>
+      <rect x="614" y="529" width="24" height="23"  rx="4"/>
+      <rect x="622" y="552" width="24" height="23"  rx="4"/>
+      <rect x="630" y="575" width="25" height="22"  rx="4"/>
+    </g>
+  </g>
+</svg>
