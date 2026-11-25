@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./split-flap-tagline.svg" alt="Cloud Security / Cybersecurity" width="440" />
+<img src="./split-flap-tagline.svg" alt="Cloud Security / iOS Developer" width="440" />
 </div>
 
 ###  <Tools>
@@ -9,10 +9,3 @@
     <img src="https://skillicons.dev/icons?i=figma,swift,git,py,github,mysql,supabase,firebase,sqlite,bash,githubactions,powershell,bash,linux,docker" />
   </a>
 </p>
-
-
-<div align="center">
-  <a href="https://ralph-dainiell-omega.vercel.app">
-    <img src="./portfolio-button.svg" alt="Visit Ralph's Portfolio" width="100" />
-  </a>
-</div>
