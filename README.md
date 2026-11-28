@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./split-flap-tagline.svg" alt="Cloud Security / iOS Developer" width="440" />
-</div>
+
 
 ###  <Tools>
 <p align="left">
